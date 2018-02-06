@@ -131,15 +131,15 @@
       {
         "img": "图片20.png",
         "name": "史璐",
-        "email": "shilu@snnu.edu.cn"
+        "content": "shilu@snnu.edu.cn"
       },{
         "img": "图片21.png",
         "name": "张蓓",
-        "email": "zhangbei@snnu.edu.cn"
+        "content": "zhangbei@snnu.edu.cn"
       },{
         "img": "图片22.png",
         "name": " 雷敬",
-        "email": "jinglei327@snnu.edu.cn"
+        "content": "jinglei327@snnu.edu.cn"
       }
     ]
   },{
